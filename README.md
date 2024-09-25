@@ -51,6 +51,12 @@ A MATLAB project that simulates the collision between two circles in a 2D space,
   - Collision detection based on circle positions and radii
   - Momentum calculations before and after collisions
   - Real-time visual simulation of circle movements
+
+### [Hand Gesture Recognition](https://github.com/amorokdeh/Hand-Gesture)
+This project investigates hand gesture recognition in the context of human-computer interaction through two prototypes: one for recognizing sign language and another for using a virtual keyboard. Both systems have been developed using modern image processing and machine learning techniques.
+
+- **Technologies**: Image Processing, Machine Learning
+- **Key Features**: Gesture translation to text, innovative virtual keyboard input method.
   
 ### [Doctor X Game](https://github.com/amorokdeh/Doctor-X)
 A 2D jump-and-run game inspired by the fight against viruses during the pandemic. Doctor X uses magical powder to destroy viruses and gain points across 5 levels.
