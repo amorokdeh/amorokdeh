@@ -84,6 +84,14 @@ This project investigates hand gesture recognition in the context of human-compu
 - **Technologies**: Image Processing, Machine Learning
 - **Key Features**: Gesture translation to text, innovative virtual keyboard input method.
 
+### [Royal Games Store](https://github.com/amorokdeh/royal-games-Store)
+A website built with Angular, TypeScript, Node.js, and MySQL database to sell digital games. Each user has a profile to view their purchases and games and can buy new games.
+
+- **Technologies**: Angular, TypeScript, Node.js, MySQL
+- **Key Features**: 
+  - User profiles with purchase history
+  - Seamless shopping experience for digital games
+
 ### [ChatApp-TCP](https://github.com/amorokdeh/ChatApp-TCP)
 A chat application created in Java with a command-line interface (CUI) that uses a TCP server. The server can handle multiple users simultaneously using threads.
 
