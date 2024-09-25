@@ -53,11 +53,12 @@ A MATLAB project that simulates the collision between two circles in a 2D space,
   - Momentum calculations before and after collisions
   - Real-time visual simulation of circle movements
 
-### [Project 3: 3D Visualization for Scientific Research](https://github.com/your-username/project3)
-Developed a 3D model using **Blender** for scientific presentations, integrated into an interactive web application for better user engagement.
+### [Project 5: Ghost of the Forest](https://github.com/amorokdeh/Ghost-of-the-forest)
+A browser-based game where players control a friendly ghost on a quest to save people from evil spirits living in a forest.
 
-- **Technologies**: Blender, Three.js, WebGL
-- **Key Features**: Interactive 3D visualization, Web integration
+## 🛠️ Technologies
+- **Programming Language**: JavaScript
+- **Platform**: Browser-based
 
 ---
 
