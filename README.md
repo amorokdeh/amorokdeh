@@ -38,13 +38,13 @@ I am an experienced software engineer with a passion for developing high-perform
 
 ## 🚀 Featured Projects
 
-### [Project 1: Doctor X Game](https://github.com/amorokdeh/Doctor-X)
+### [Doctor X Game](https://github.com/amorokdeh/Doctor-X)
 A 2D jump-and-run game inspired by the fight against viruses during the pandemic. Doctor X uses magical powder to destroy viruses and gain points across 5 levels.
 
 - **Technologies**: Phaser, JavaScript, Adobe Photoshop, Aseprite
 - **Key Features**: 2D pixel-art design, multi-level gameplay, custom animations
 
-### [Project 2: Collision Treatment](https://github.com/amorokdeh/Collision-treatment)
+### [Collision Treatment](https://github.com/amorokdeh/Collision-treatment)
 A MATLAB project that simulates the collision between two circles in a 2D space, focusing on their collision dynamics.
 
 - **Technologies**: MATLAB
@@ -53,7 +53,7 @@ A MATLAB project that simulates the collision between two circles in a 2D space,
   - Momentum calculations before and after collisions
   - Real-time visual simulation of circle movements
 
-### [Project 3: Ghost of the Forest Game](https://github.com/amorokdeh/Ghost-of-the-forest)
+### [Ghost of the Forest Game](https://github.com/amorokdeh/Ghost-of-the-forest)
 A browser-based game where players control a friendly ghost on a quest to save people from evil spirits living in a forest.
 
 - **Technologies**: JavaScript
