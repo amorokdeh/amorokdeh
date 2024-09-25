@@ -52,6 +52,15 @@ A jump-and-run game created with C# and SDL, featuring player health, jump and f
 - **Technologies**: C#, SDL
 - **Key Features**: Player health bar, score tracking, adjustable window size and sound settings
 
+### [E-Shop](https://github.com/amorokdeh/E-Shop)
+An e-commerce application created with Java that includes a Command-Line User Interface (CUI), Graphical User Interface (GUI), and TCP Server functionality. The app allows users to log in or register a new account, while employees can add items and new employee accounts. Users can add items to their basket and purchase them, receiving a bill upon completion.
+
+- **Technologies**: Java
+- **Key Features**: 
+  - User login and registration
+  - Item management for employees
+  - Shopping cart functionality with billing
+
 ### [It's Time to Help Student](https://github.com/amorokdeh/It-s-Time-to-Help-Student)
 This project is a UI/UX design for a webpage resembling an e-learning platform. It aims to provide a user-friendly interface that enhances the learning experience for students.
 
