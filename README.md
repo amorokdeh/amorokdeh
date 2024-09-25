@@ -38,11 +38,11 @@ I am an experienced software engineer with a passion for developing high-perform
 
 ## 🚀 Featured Projects
 
-### [Doctor X Game](https://github.com/amorokdeh/Doctor-X)
-A 2D jump-and-run game inspired by the fight against viruses during the pandemic. Doctor X uses magical powder to destroy viruses and gain points across 5 levels.
+### [Tile Based Game](https://github.com/amorokdeh/TileBasedGame)
+A jump-and-run game created with C# and SDL, featuring player health, jump and fire mechanics, bullet speed effects, and three different levels.
 
-- **Technologies**: Phaser, JavaScript, Adobe Photoshop, Aseprite
-- **Key Features**: 2D pixel-art design, multi-level gameplay, custom animations
+- **Technologies**: C#, SDL
+- **Key Features**: Player health bar, score tracking, adjustable window size and sound settings
 
 ### [Collision Treatment](https://github.com/amorokdeh/Collision-treatment)
 A MATLAB project that simulates the collision between two circles in a 2D space, focusing on their collision dynamics.
@@ -52,13 +52,12 @@ A MATLAB project that simulates the collision between two circles in a 2D space,
   - Collision detection based on circle positions and radii
   - Momentum calculations before and after collisions
   - Real-time visual simulation of circle movements
+  
+### [Doctor X Game](https://github.com/amorokdeh/Doctor-X)
+A 2D jump-and-run game inspired by the fight against viruses during the pandemic. Doctor X uses magical powder to destroy viruses and gain points across 5 levels.
 
-### [Ghost of the Forest Game](https://github.com/amorokdeh/Ghost-of-the-forest)
-A browser-based game where players control a friendly ghost on a quest to save people from evil spirits living in a forest.
-
-- **Technologies**: JavaScript
-- **Platform**: Browser-based
-- **Key Features**: Interactive storytelling, multiple levels with unique challenges
+- **Technologies**: Phaser, JavaScript, Adobe Photoshop, Aseprite
+- **Key Features**: 2D pixel-art design, multi-level gameplay, custom animations
 
 ### [Pong Game](https://github.com/amorokdeh/Pong)
 A classic Pong game built with C# and SDL, featuring 1 vs 1 player mode or 1 player vs AI. Includes a level with a portal for unique gameplay.
@@ -66,11 +65,12 @@ A classic Pong game built with C# and SDL, featuring 1 vs 1 player mode or 1 pla
 - **Technologies**: C#, SDL
 - **Key Features**: Multiplayer support, unique portal mechanic, responsive controls
 
-### [Tile Based Game](https://github.com/amorokdeh/TileBasedGame)
-A jump-and-run game created with C# and SDL, featuring player health, jump and fire mechanics, bullet speed effects, and three different levels.
+### [Ghost of the Forest Game](https://github.com/amorokdeh/Ghost-of-the-forest)
+A browser-based game where players control a friendly ghost on a quest to save people from evil spirits living in a forest.
 
-- **Technologies**: C#, SDL
-- **Key Features**: Player health bar, score tracking, adjustable window size and sound settings
+- **Technologies**: JavaScript
+- **Platform**: Browser-based
+- **Key Features**: Interactive storytelling, multiple levels with unique challenges
 
 ---
 
