@@ -58,7 +58,13 @@ A browser-based game where players control a friendly ghost on a quest to save p
 
 - **Technologies**: JavaScript
 - **Platform**: Browser-based
-- **Key Features**: 2D game, multi-level gameplay
+- **Key Features**: Interactive storytelling, multiple levels with unique challenges
+
+### [Pong Game](https://github.com/amorokdeh/Pong)
+A classic Pong game built with C# and SDL, featuring 1 vs 1 player mode or 1 player vs AI. Includes a level with a portal for unique gameplay.
+
+- **Technologies**: C#, SDL
+- **Key Features**: Multiplayer support, unique portal mechanic, responsive controls
 
 ---
 
