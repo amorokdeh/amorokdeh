@@ -64,6 +64,13 @@ A 2D jump-and-run game inspired by the fight against viruses during the pandemic
 - **Technologies**: Phaser, JavaScript, Adobe Photoshop, Aseprite
 - **Key Features**: 2D pixel-art design, multi-level gameplay, custom animations
 
+### [Perlin Noise and Mesh Simplification](https://github.com/amorokdeh/Perlin-Noise-and-Mesh-Simplification)
+A Python-based project that implements various mathematical algorithms like Perlin noise generation and mesh simplification, commonly used in computer graphics and procedural generation.
+
+- **Technologies**: Python, Mathematical Algorithms
+- **Key Features**: Procedural terrain generation, mesh reduction techniques, customizable parameters for terrain and mesh output.
+
+
 ### [Pong Game](https://github.com/amorokdeh/Pong)
 A classic Pong game built with C# and SDL, featuring 1 vs 1 player mode or 1 player vs AI. Includes a level with a portal for unique gameplay.
 
