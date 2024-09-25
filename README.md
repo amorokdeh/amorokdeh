@@ -37,6 +37,15 @@ I am an experienced software engineer with a passion for developing high-perform
 
 ## 🚀 Featured Projects
 
+### [Chronometer](https://github.com/amorokdeh/Chronometer)
+A detailed 3D recreation of a maritime chronometer scanned via CT, animated in Blender, and developed into an interactive web app using Three.js. The animation demonstrates the intricate workings of the chronometer, and the web app allows users to explore the parts and functioning of the clock in real-time.
+
+- **Technologies**: Blender, Three.js
+- **Key Features**:
+  - Dynamic real-time simulation of chronometer's mechanisms
+  - Interactive user interface for exploring chronometer parts
+  - Web-based application with detailed information display
+
 ### [Tile Based Game](https://github.com/amorokdeh/TileBasedGame)
 A jump-and-run game created with C# and SDL, featuring player health, jump and fire mechanics, bullet speed effects, and three different levels.
 
@@ -84,15 +93,6 @@ A classic Pong game built with C# and SDL, featuring 1 vs 1 player mode or 1 pla
 
 - **Technologies**: C#, SDL
 - **Key Features**: Multiplayer support, unique portal mechanic, responsive controls
-
-### [Chronometer](https://github.com/amorokdeh/Chronometer)
-A detailed 3D recreation of a maritime chronometer scanned via CT, animated in Blender, and developed into an interactive web app using Three.js. The animation demonstrates the intricate workings of the chronometer, and the web app allows users to explore the parts and functioning of the clock in real-time.
-
-- **Technologies**: Blender, Three.js
-- **Key Features**:
-  - Dynamic real-time simulation of chronometer's mechanisms
-  - Interactive user interface for exploring chronometer parts
-  - Web-based application with detailed information display
 
 ### [Ghost of the Forest Game](https://github.com/amorokdeh/Ghost-of-the-forest)
 A browser-based game where players control a friendly ghost on a quest to save people from evil spirits living in a forest.
