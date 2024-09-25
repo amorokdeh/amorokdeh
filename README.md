@@ -38,11 +38,11 @@ I am an experienced software engineer with a passion for developing high-perform
 
 ## 🚀 Featured Projects
 
-### [Project 1: Geospatial Data Platform](https://github.com/your-username/project1)
-An interactive GIS application that enhances geospatial data accuracy using **Python** and **QGIS**. It enables visualization of spatial data and automates complex geospatial workflows.
+### [Project 1: Doctor X Game](https://github.com/amorokdeh/Doctor-X)
+A 2D jump-and-run game inspired by the fight against viruses during the pandemic. Doctor X uses magical powder to destroy viruses and gain points across 5 levels.
 
-- **Technologies**: Python, Django, QGIS, PostGIS
-- **Key Features**: Real-time mapping, Automated data processing
+- **Technologies**: Phaser, JavaScript, Adobe Photoshop, Aseprite
+- **Key Features**: 2D pixel-art design, multi-level gameplay, custom animations
 
 ### [Project 2: Full-Stack Web App](https://github.com/your-username/project2)
 A full-stack application built with **Angular** and **Node.js**. It streamlines workflow management and boosts productivity for small businesses.
