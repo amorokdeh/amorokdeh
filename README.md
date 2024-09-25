@@ -31,7 +31,6 @@ I am an experienced software engineer with a passion for developing high-perform
 ---
 
 ## 📈 GitHub Stats
-![Amr's GitHub stats](https://github-readme-stats.vercel.app/api?username=amorokdeh&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amorokdeh&layout=compact&theme=tokyonight)
 
 ---
