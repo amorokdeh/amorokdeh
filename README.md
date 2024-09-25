@@ -83,7 +83,13 @@ This project investigates hand gesture recognition in the context of human-compu
 
 - **Technologies**: Image Processing, Machine Learning
 - **Key Features**: Gesture translation to text, innovative virtual keyboard input method.
-  
+
+### [ChatApp-TCP](https://github.com/amorokdeh/ChatApp-TCP)
+A chat application created in Java with a command-line interface (CUI) that uses a TCP server. The server can handle multiple users simultaneously using threads.
+
+- **Technologies**: Java, TCP
+- **Key Features**: Multi-user support, real-time messaging, thread management.
+
 ### [Doctor X Game](https://github.com/amorokdeh/Doctor-X)
 A 2D jump-and-run game inspired by the fight against viruses during the pandemic. Doctor X uses magical powder to destroy viruses and gain points across 5 levels.
 
