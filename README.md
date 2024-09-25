@@ -44,11 +44,14 @@ A 2D jump-and-run game inspired by the fight against viruses during the pandemic
 - **Technologies**: Phaser, JavaScript, Adobe Photoshop, Aseprite
 - **Key Features**: 2D pixel-art design, multi-level gameplay, custom animations
 
-### [Project 2: Full-Stack Web App](https://github.com/your-username/project2)
-A full-stack application built with **Angular** and **Node.js**. It streamlines workflow management and boosts productivity for small businesses.
+### [Project 2: Collision Treatment](https://github.com/amorokdeh/Collision-treatment)
+A MATLAB project that simulates the collision between two circles in a 2D space, focusing on their collision dynamics.
 
-- **Technologies**: Angular, Node.js, PostgreSQL
-- **Key Features**: User authentication, REST API integration, Real-time data
+- **Technologies**: MATLAB
+- **Key Features**: 
+  - Collision detection based on circle positions and radii
+  - Momentum calculations before and after collisions
+  - Real-time visual simulation of circle movements
 
 ### [Project 3: 3D Visualization for Scientific Research](https://github.com/your-username/project3)
 Developed a 3D model using **Blender** for scientific presentations, integrated into an interactive web application for better user engagement.
