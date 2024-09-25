@@ -56,9 +56,9 @@ A MATLAB project that simulates the collision between two circles in a 2D space,
 ### [Project 3: Ghost of the Forest Game](https://github.com/amorokdeh/Ghost-of-the-forest)
 A browser-based game where players control a friendly ghost on a quest to save people from evil spirits living in a forest.
 
-## 🛠️ Technologies
-- **Programming Language**: JavaScript
+- **Technologies**: JavaScript
 - **Platform**: Browser-based
+- **Key Features**: 2D game, multi-level gameplay
 
 ---
 
