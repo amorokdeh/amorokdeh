@@ -53,7 +53,7 @@ A MATLAB project that simulates the collision between two circles in a 2D space,
   - Momentum calculations before and after collisions
   - Real-time visual simulation of circle movements
 
-### [Project 5: Ghost of the Forest](https://github.com/amorokdeh/Ghost-of-the-forest)
+### [Project 3: Ghost of the Forest Game](https://github.com/amorokdeh/Ghost-of-the-forest)
 A browser-based game where players control a friendly ghost on a quest to save people from evil spirits living in a forest.
 
 ## 🛠️ Technologies
