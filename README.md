@@ -43,6 +43,14 @@ A jump-and-run game created with C# and SDL, featuring player health, jump and f
 - **Technologies**: C#, SDL
 - **Key Features**: Player health bar, score tracking, adjustable window size and sound settings
 
+### [It's Time to Help Student](https://github.com/amorokdeh/It-s-Time-to-Help-Student)
+This project is a UI/UX design for a webpage resembling an e-learning platform. It aims to provide a user-friendly interface that enhances the learning experience for students.
+
+- **Technologies**: HTML, CSS, JavaScript
+- **Key Features**: 
+  - Responsive design optimized for desktop
+  - Simple navigation and interactive elements
+
 ### [Collision Treatment](https://github.com/amorokdeh/Collision-treatment)
 A MATLAB project that simulates the collision between two circles in a 2D space, focusing on their collision dynamics.
 
