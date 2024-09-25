@@ -66,6 +66,12 @@ A classic Pong game built with C# and SDL, featuring 1 vs 1 player mode or 1 pla
 - **Technologies**: C#, SDL
 - **Key Features**: Multiplayer support, unique portal mechanic, responsive controls
 
+### [Tile Based Game](https://github.com/amorokdeh/TileBasedGame)
+A jump-and-run game created with C# and SDL, featuring player health, jump and fire mechanics, bullet speed effects, and three different levels.
+
+- **Technologies**: C#, SDL
+- **Key Features**: Player health bar, score tracking, adjustable window size and sound settings
+
 ---
 
 ## 📫 Contact Me:
