@@ -127,7 +127,7 @@ A browser-based game where players control a friendly ghost on a quest to save p
 ---
 
 ## 📫 Contact Me:
-- Email: [amrokdeh@outlook.com](mailto:amrokde@gmail.com)
+- Email: [amrokde@gmail.com](mailto:amrokde@gmail.com)
 - LinkedIn: [linkedin.com/in/amr-okdeh](https://linkedin.com/in/amr-okdeh)
 - GitHub: [github.com/amorokdeh](https://github.com/amorokdeh)
 
