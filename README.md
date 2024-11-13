@@ -17,6 +17,9 @@ I am an experienced software engineer with a passion for developing high-perform
 - **Frameworks**: Node.js, Django, Spring Boot
 - **Databases**: MySQL, PostgreSQL, MongoDB
 
+### Apps & Games:
+- **Languages**: C++, C#, Java, JavaScript, Python
+
 ### DevOps:
 - **Tools**: Git, Docker, CI/CD with GitHub Actions, Linux, Cloud Deployment
 
