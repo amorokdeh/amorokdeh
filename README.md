@@ -35,7 +35,7 @@ I am an experienced software engineer with a passion for developing high-perform
 
 ## 🚀 Featured Projects
 
-### [Gems Flares](https://github.com/amorokdeh/Gems-Flares)
+### [Gems Flare](https://github.com/amorokdeh/GemsFlare)
 A full-stack e-commerce web application built with **Spring Boot** and **React.js**. Gems Flares allows users to create accounts, browse products, and purchase items through a modern, user-friendly interface.  
 The project demonstrates real-world full-stack development, RESTful APIs, database integration, and cloud deployment.
 
