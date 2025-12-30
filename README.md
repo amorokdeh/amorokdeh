@@ -35,6 +35,19 @@ I am an experienced software engineer with a passion for developing high-perform
 
 ## 🚀 Featured Projects
 
+### [Gems Flares](https://github.com/amorokdeh/Gems-Flares)
+A full-stack e-commerce web application built with **Spring Boot** and **React.js**. Gems Flares allows users to create accounts, browse products, and purchase items through a modern, user-friendly interface.  
+The project demonstrates real-world full-stack development, RESTful APIs, database integration, and cloud deployment.
+
+- **Technologies**: Spring Boot, Java, Maven, React.js, PostgreSQL, Google Cloud
+- **Key Features**:
+  - User authentication and account management
+  - Product browsing and shopping cart
+  - Secure checkout workflow
+  - REST API communication between frontend and backend
+  - Cloud-based deployment and management
+
+
 ### [Chronometer](https://github.com/amorokdeh/Chronometer)
 A detailed 3D recreation of a maritime chronometer scanned via CT, animated in Blender, and developed into an interactive web app using Three.js. The animation demonstrates the intricate workings of the chronometer, and the web app allows users to explore the parts and functioning of the clock in real-time.
 
